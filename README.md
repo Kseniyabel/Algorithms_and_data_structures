@@ -165,6 +165,7 @@ Fi и Pi — целые числа, лежащие в диапазоне от 0 
 Формат вывода
   
 Для отсортированного списка участников выведите по порядку их логины по одному в строке.
+  
 [task_b_3.py](https://github.com/Kseniyabel/Algorithms_and_data_structures/blob/main/Sprint_3/task_b_3.py)
  
  </details> 
